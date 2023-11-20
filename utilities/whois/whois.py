@@ -1,6 +1,6 @@
 from requests import get
-import json
 import pprint
+import json
 
 
 def whois():
